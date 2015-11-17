@@ -9,7 +9,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 **EiRs:** Oleh and Alex
 
 ###Exit Ticket
-[Fill me out at the end of each class!](www.google.com)
+[Fill me out at the end of each class!](http://bit.ly/1j46bjT)
 
 ###Course Description
 
@@ -26,26 +26,18 @@ General Assembly's Part-time courses are pass/fail programs.  We have certain re
 3. **Completing the final project**
 
 
-### Python Resources [By Kevin Markham](https://github.com/justmarkham/DAT7)
-* [Codecademy's Python course](http://www.codecademy.com/en/tracks/python): Good beginner material, including tons of in-browser exercises.
-* [DataQuest](https://dataquest.io/): Similar interface to Codecademy, but focused on teaching Python in the context of data science.
-* [Google's Python Class](https://developers.google.com/edu/python/): Slightly more advanced, including hours of useful lecture videos and downloadable exercises (with solutions).
-* [A Crash Course in Python for Scientists](http://nbviewer.ipython.org/gist/rpmuller/5920182): Read through the Overview section for a quick introduction to Python.
-* [Python 2.7x Reference Guide](https://github.com/justmarkham/python-reference/blob/master/reference.py): Kevin's beginner-oriented guide that demonstrates a ton of Python concepts through short, well-commented examples.
-* [Python Tutor](http://pythontutor.com/): Allows you to visualize the execution of Python code.
-
 ### Course Schedule 
 (Advanced topics will be finalized after student goals are defined)
 
 Week | Tuesday | Thursday
 --- | --- | ---
  1 | 11/17: Introduction to Data Science | 11/19: Introduction to Python for Data Science
- 2 | 11/24: Intro to Machine Learning with KNN **HW1 Due** | 11/26: No Class
+ 2 | 11/24: Intro to Machine Learning with KNN  | 11/26: No Class
  3 | 12/1: Statistics for Data Science | 12/3: Regression & Regularization
  4 | 12/8: Logistic Regression| 12/10: Naive Bayes & Cross Validation
 5 | 12/15: K Means | 12/17: Decision Trees
 6 | 12/22: Imbalanced Classes and Model Evaluation | 12/24: No Class
- 7 | 12/29: no class | 12/31: No class
+ 7 | 12/29: No class | 12/31: No class
  8 | 1/5: Review| 1/7: Ensemble Techniques 
 9 | 1/12: Support Vector Machine | 1/14: Dimensionality Reduction
 10 | 1/19: Natural Language Processing | 1/21: Neural Networks
@@ -54,7 +46,7 @@ Week | Tuesday | Thursday
 13 | 2/9: Course Review | 2/11: Final Project Presentations Day 1
 14 | 2/16: Final Project Presentations Day 2 | 
 
-_syllabus last updated: 11/27/2015_
+_syllabus last updated: 11/16/2015_
 
 ### Homework Schedule
 
@@ -76,3 +68,11 @@ Please use email or Slack to schedule office hours. Use [office hours] in the su
 #### Slack
 
 You've all been invited to use Slack for chat during class and the day. Please consider this the primary way to contact other students. The TAs will be in Slack during class to handle questions. All instructors will be available on Slack during office hours (listed above).
+
+### Python Resources [By Kevin Markham](https://github.com/justmarkham/DAT7)
+* [Codecademy's Python course](http://www.codecademy.com/en/tracks/python): Good beginner material, including tons of in-browser exercises.
+* [DataQuest](https://dataquest.io/): Similar interface to Codecademy, but focused on teaching Python in the context of data science.
+* [Google's Python Class](https://developers.google.com/edu/python/): Slightly more advanced, including hours of useful lecture videos and downloadable exercises (with solutions).
+* [A Crash Course in Python for Scientists](http://nbviewer.ipython.org/gist/rpmuller/5920182): Read through the Overview section for a quick introduction to Python.
+* [Python 2.7x Reference Guide](https://github.com/justmarkham/python-reference/blob/master/reference.py): Kevin's beginner-oriented guide that demonstrates a ton of Python concepts through short, well-commented examples.
+* [Python Tutor](http://pythontutor.com/): Allows you to visualize the execution of Python code.
