@@ -6,7 +6,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **Instructor:** [Joel Witten](https://generalassemb.ly/instructors/joel-witten/7307)
 
-**EiRs:** Oleh and Alex
+**EiRs:** Oleh Dubno and Adam Silver
 
 ###Exit Ticket
 [Fill me out at the end of each class!](http://bit.ly/1j46bjT)
@@ -60,7 +60,7 @@ instructor | times available | method
 :----------|:-------------------|:--
 Joel     | by appointment | TBD
 Oleh	   | TBD | TBD
-Alex      | TBD | TBD
+Adam      | TBD | TBD
 
 
 Please use email or Slack to schedule office hours. Use [office hours] in the subject line as it can help us find the emails easier and reply more quickly. 
